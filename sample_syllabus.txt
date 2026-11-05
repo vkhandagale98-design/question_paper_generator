@@ -1,0 +1,29 @@
+SUBJECT: Machine Learning
+
+UNIT 1: Introduction to Machine Learning
+- Definition and applications of Machine Learning
+- Types of Machine Learning
+- Supervised learning
+- Unsupervised learning
+- Training and testing datasets
+
+UNIT 2: Classification Algorithms
+- Decision Trees
+- Random Forest
+- K-Nearest Neighbors
+- Naive Bayes
+- Classification performance
+
+UNIT 3: Regression and Evaluation
+- Linear Regression
+- Logistic Regression
+- Model evaluation
+- Accuracy, precision and recall
+- Confusion matrix
+
+LEARNING OUTCOMES
+1. Explain fundamental Machine Learning concepts.
+2. Distinguish supervised and unsupervised learning.
+3. Describe common classification algorithms.
+4. Apply basic regression concepts.
+5. Evaluate a model using suitable metrics.
